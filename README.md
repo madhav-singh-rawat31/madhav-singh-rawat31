@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/madhavsingh31)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/madhav-singh-rawat31)
 
 - 💬 Ask me about **Kali Linux, CTF's, Python, C++, Networking,**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Life can be challenging but never boring**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/madhav singh rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav singh rawat" height="30" width="40" /></a>
 </p>
