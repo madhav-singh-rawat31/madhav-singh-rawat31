@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav Singh Rawat</h1>
 <h3 align="center">A Cyber Security Enthusiast</h3>
-<script src="https://tryhackme.com/badge/237591"></script>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsingh31&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsingh31" /> </p>
+<p> <img src="https://tryhackme-badges.s3.amazonaws.com/Rocker99.png" alt="TryHackMe"> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-singh-rawat31&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-singh-rawat31" /> </p>
 
 - 🔭 I’m currently working on **MP3 Steganalysis**
 
