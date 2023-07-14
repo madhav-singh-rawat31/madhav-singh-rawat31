@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Singh Rawat</h1>
 <h3 align="center">A Cyber Security Enthusiast</h3>
-<p> <script src="https://tryhackme.com/badge/237591"></script> </p>
+<script src="https://tryhackme.com/badge/237591"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsingh31&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsingh31" /> </p>
 
