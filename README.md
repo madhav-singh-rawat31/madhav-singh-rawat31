@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Singh Rawat</h1>
 <h3 align="center">A Cyber Security Enthusiast</h3>
-<p> <img src="https://tryhackme-badges.s3.amazonaws.com/Rocker99.png" alt="TryHackMe"> </p>
+<p> <script src="https://tryhackme.com/badge/237591"></script> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsingh31&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsingh31" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **madhavrawat31@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DAzhG5mNyviyVbRqTEG0R_azNmP1zFOU/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SptLS0wJrkmabCdy5AntBHztNcViGzm4/view?usp=sharing))
 
 - ⚡ Fun fact **Life can be challenging but never boring**
 
